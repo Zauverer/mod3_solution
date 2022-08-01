@@ -1,0 +1,28 @@
+body{
+    overflow-x: hidden;
+    font-family: Comic Sans MS, Comic Sans, cursive;  
+
+  }
+  section{
+    background-color: #999999;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 1px solid black;
+    padding: 18px; 
+  }
+  
+.navbar-brand{
+    font-size: 30px; 
+  }
+
+  a{
+    text-align: center;
+    color: black;
+  }
+
+  li{
+    font-size: 20px; 
+    border: 1px solid black;
+  }
+
